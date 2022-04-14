@@ -802,8 +802,8 @@ Penalty: *❎ SOFT BLOCK*
 Penalty: *PERMANENT BLOCK*
 
 🗯️ Bots do not or are slow to respond ?
-➡️ It may be influenced by networks, signals, banned by Whatsapp and some perfunctories. Stick to the rules‼️
-
+➡️ It may be influenced by networks, signals, banned by Whatsapp and some perfunctories.
+   Stick to the rules‼️ 
 
 🗯️ Where can I get scripts from this bot ?
 ➡️ This script is still private and has never been traded ,be wise in knowing fraudsters.
@@ -811,32 +811,32 @@ Penalty: *PERMANENT BLOCK*
 🗯️ May I add to the group?
 ➡️ For a while the bot is in free to add state.
 
-🗯️ Prefixnya apa ya?
-➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
+🗯️ Prefix what yes?
+➡️ This bot uses multi prefixes. This means that you can use prefix #, . , And other reasonable prefixes.
 
-🗯️ Kak, kok syaa chat owner tidak direspon?
-➡️ Owner hanya merespon pertanyaan seputar bot Dan kendala eror, tidak untuk kenalan ataupun mengemis script.
+🗯️ bro, how come the chat owner's syaa is not responded to?
+➡️ The owner only responds to questions about bots and error constraints, not for acquaintances or begging for scripts.
 
 
-Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
+If you already understand the rules, please type *${prefix}allmenu* to get started!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ All YunoBot policies and conditions are held by the owner and any policy changes, at any time the owner has the right to revoke, block the user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! For you friendly users and some people who helped also in the YunoBot creation project
 😖🙏
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`welcome 🤗
 	
-╭ 𝖭𝖺𝗆𝖺 :
+╭ 𝗻𝗮𝗺𝗲 :
 ├ 𝖴𝗆𝗎𝗋 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
 ├ 𝖠𝗌𝗄𝗈𝗍 :
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`finally left 😣 we're probably not gonna miss u >.<
 Goodbye`
 }
 exports.source = () =>{
