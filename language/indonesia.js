@@ -85,7 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", Not a number!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hi ${pushname} 👋 goodbye ${salam} , 
+	return`Hi ${pushname} 👋 Salamat ${salam} , 
 I'm ${botname}, this bot is Beta Multi-Device Whatsapp. 
 If you find some kind of bug or error please report to the owner, 
 be repaired immediately 🙏      
@@ -829,11 +829,11 @@ Arigatou Gozaimasu! For you friendly users and some people who helped also in th
 exports.welcome = () =>{
 	return`welcome 🤗
 	
-╭ 𝗻𝗮𝗺𝗲 :
-├ 𝖴𝗆𝗎𝗋 :
+╭ 𝖭𝖺𝗆𝖾 :
+├ 𝖠𝗀𝖾 :
 ├ 𝖦𝖾𝗇𝖽𝖾𝗋 :
-├ 𝖠𝗌𝗄𝗈𝗍 :
-╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
+├ 𝖢𝗂𝗍𝗒 :
+╰❒ 𝖽𝗈𝗇'𝗍 𝖿𝗈𝗋𝗀𝖾𝗍 𝗍𝗈 𝗋𝖾𝖺𝖽 𝗀𝗋𝗈𝗎𝗉 𝗋𝗎𝗅𝖾𝗌 ~`
 }
 exports.leave = () =>{
 	return`finally left 😣 we're probably not gonna miss u >.<
@@ -850,10 +850,10 @@ exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Hi bro/sis ☺️ 
+You can support me to keep this bot up to date by donating
 
-Berapapun donasi kalian akan sangat berarti 👍
+Whatever your donation will mean a lot. 👍
 
 Thanks!
 
@@ -1451,14 +1451,7 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ My friends
 ╰❒ And All Support
 `
 }
