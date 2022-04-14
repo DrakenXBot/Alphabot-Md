@@ -39,7 +39,7 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['','!','/'#'🐦','🐤','🗿']
+global.prefa = ['','!','/','#','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
@@ -48,7 +48,7 @@ global.mess = {
     owner: 'only owner can use that command !',
     group: 'This Command Can Only Be Used In Groups !',
     private: 'This Command Can Only Be Used In Private !',
-	bot: 'Fitur Khusus Pengguna Nomor Bot',
+	bot: 'Bot Number User-Specific Features',
     errtoimg: 'Sorry Currently Not Support sticker Gif !',
     wait: '⏳ In Progress',
 	lockCmd: 'Features Not Enabled By Owner!',
