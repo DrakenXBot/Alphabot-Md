@@ -1,100 +1,100 @@
 exports.private = () =>{
-	return`Fitur hanya bisa di gunakan di private chat`
+	return`Features can only be used in private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return `⏳ Please wait a minute~`
 }
 exports.ok = () => {
     return `✅ Done. Ok desu~`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `⚠️ Medium Error Feature`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `⚠️ Link the error`
 }
 exports.media = () => {
-    return `Silahkan pilih media yang ingin kamu download`
+    return `Please select the media you want to download`
 }
 exports.replyImg = (prefix, command) => {
-    return `Kirim/Reply Foto Dengan Caption ${prefix + command}`
+    return `Send/Reply Photos With Captions ${prefix + command}`
 }
 
 exports.wrongFormat = (prefix) => {
-    return `Format salah ❎ Silakan cek cara penggunaan di *${prefix}allmenu*.`
+    return `❎ Incorrect format Please check how to use in *${prefix}allmenu*.`
 }
 
 exports.emptyMess = () => {
-    return `❎ Harap masukkan pesan yang ingin disampaikan!`
+    return `❎ Please enter the message you want to convey!`
 }
 
 exports.cmdNotFound = (cmd, prefix) => {
-    return `❎ Command *${cmd}* tidak terdaftar di *${prefix}allmenu*`
+    return `❎ Command *${cmd}* not registered in *${prefix}allmenu*`
 }
 
 exports.ownerOnly = () => {
-    return `❎ Command ini khusus Owner`
+    return `❎ This command is owner-only`
 }
 
 exports.doneOwner = () => {
-    return `✅  ️Sudah selesai, Owner ~`
+    return `✅  ️It's done, Owner ~`
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `👥  This command can only be used in groups!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🙅  This command can only be used by group admins!`
 }
 
 exports.nhFalse = () => {
-    return `Kode tidak valid!`
+    return `Invalid code!`
 }
 
 exports.listBlock = (blockNumber) => {
     return `*── 「 HALL OF SHAME 」 ──*
     
-Total diblokir: *${blockNumber.length}* user\n`
+Total Blocked: *${blockNumber.length}* user\n`
 }
 
 exports.notAdmin = () => {
-    return `❎ User bukan seorang admin! ❎`
+    return `❎ The user is not an admin.! ❎`
 }
 
 exports.adminAlready = () => {
-    return `❎ Tidak  dapat mem-promote user yang merupakan admin!`
+    return `❎ Unable to promote users who are admins already !`
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Make the bot an admin first! 🙏`
 }
 
 exports.received = (pushname) => {
     return `
-Halo ${pushname}!
-Terima kasih telah melapor, laporanmu akan kami segera terima.`
+Hello ${pushname}!
+Thank you for reporting, your report will be received soon.`
 }
 
 exports.videoLimit = () => {
-    return `Ukuran file terlalu besar!`
+    return `File size is too large!`
 }
 
 exports.notNum = (q) => {
-    return `"${q}", bukan angka!`
+    return `"${q}", Not a number!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
-Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+	return`Hi kak ${pushname} 👋 goodbye ${salam} , 
+I ${botname}, this bot is Beta Multi-Device Whatsapp. 
+If you find some kind of bug or error please understand first yes, 
+report the owner to be repaired immediately 🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Yuno-Md :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -783,14 +783,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
+├ My friends
 ╰❒ And All Support
     `
 }
@@ -799,16 +792,16 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
-Sanksi: *❎ WARN/SOFT BLOCK*
+1. Don't spam bot. 🙅
+Penalty: *❎ WARN/SOFT BLOCK*
 
-2. Jangan telepon bot. ☎️
-Sanksi: *❎ SOFT BLOCK*
+2. Don't call bot. ☎️
+Penalty: *❎ SOFT BLOCK*
 
-3. Jangan mengeksploitasi bot.😖
-Sanksi: *PERMANENT BLOCK*
+3. Do not exploit bot.😖
+Penalty: *PERMANENT BLOCK*
 
-🗯️ Bot tidak atau lambat merespon ?
+🗯️ Bots do not or are slow to respond ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
