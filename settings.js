@@ -29,30 +29,30 @@ global.ownernomer = "212655892921" // nomor wa kalian
 global.ownernomerr = "393509549696" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
+global.background_welcome="https://telegra.ph/file/f566e65896efcfc6e6180.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.owner = ["212655892921","212655892921","393509549696"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Yuno-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.author = 'sam' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','/'#'🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
-    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-    private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+    admin: 'only admins can use that command !',
+    botAdmin: 'Bot is not admin !',
+    owner: 'only owner can use that command !',
+    group: 'This Command Can Only Be Used In Groups !',
+    private: 'This Command Can Only Be Used In Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
-    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+    errtoimg: 'Sorry Currently Not Support sticker Gif !',
+    wait: '⏳ In Progress',
+	lockCmd: 'Features Not Enabled By Owner!',
+	example1: 'Welcome @user Di Group @subject Dont Forget To Read Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
