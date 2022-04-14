@@ -12,7 +12,7 @@ exports.err = () => {
     return `⚠️ Medium Error Feature`
 }
 exports.erorLink = () => {
-    return `⚠️ Link the error`
+    return `⚠️ Error fetching the link`
 }
 exports.media = () => {
     return `Please select the media you want to download`
@@ -85,14 +85,14 @@ exports.notNum = (q) => {
     return `"${q}", Not a number!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hi kak ${pushname} 👋 goodbye ${salam} , 
-I ${botname}, this bot is Beta Multi-Device Whatsapp. 
-If you find some kind of bug or error please understand first yes, 
-report the owner to be repaired immediately 🙏      
+	return`Hi ${pushname} 👋 goodbye ${salam} , 
+I'm ${botname}, this bot is Beta Multi-Device Whatsapp. 
+If you find some kind of bug or error please report to the owner, 
+be repaired immediately 🙏      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
-    return `*Selamat ${salam} ${pushname}*
+    return `*Hello ${salam} ${pushname}*
 *⌚Time Server : ${time}*
 *📚 List-Menu Yuno-Md :*
 
@@ -802,7 +802,8 @@ Penalty: *❎ SOFT BLOCK*
 Penalty: *PERMANENT BLOCK*
 
 🗯️ Bots do not or are slow to respond ?
-➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan. Tetap patuhi rules‼️
+➡️ It may be influenced by networks, signals, banned by Whatsapp and some perfunctories. Stick to the rules‼️
+
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
 ➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
