@@ -805,11 +805,11 @@ Penalty: *PERMANENT BLOCK*
 ➡️ It may be influenced by networks, signals, banned by Whatsapp and some perfunctories. Stick to the rules‼️
 
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
+🗯️ Where can I get scripts from this bot ?
+➡️ This script is still private and has never been traded ,be wise in knowing fraudsters.
 
-🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+🗯️ May I add to the group?
+➡️ For a while the bot is in free to add state.
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
