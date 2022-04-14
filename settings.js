@@ -19,7 +19,7 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "Yuno-Mdོ" //namabot kalian
-global.ownername= "᭝᭄𝜬࿆𝑹𝜤𝑵𝑪𝜩 ‹𝜣𝑭› ܰ𝜢𝜩𝑳𝑳ܱ" //nama kalian
+global.ownername= "sam" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
@@ -39,7 +39,7 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['','!','/','#','🐤','🗿']
+global.prefa = ['/']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
