@@ -85,7 +85,7 @@ exports.notNum = (q) => {
     return `"${q}", Not a number!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hi ${pushname} 👋 Salamat ${salam} , 
+	return`Hi ${pushname} 👋 How are you? ${salam} , 
 I'm ${botname}, this bot is Beta Multi-Device Whatsapp. 
 If you find some kind of bug or error please report to the owner, 
 be repaired immediately 🙏      
